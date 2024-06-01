@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
-
+- React
+- TypeScript
+- Microfrontend
+- Vite
 # Getting started
 
 - Clone the repository
